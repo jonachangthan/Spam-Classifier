@@ -130,6 +130,5 @@ The application includes a comprehensive text preprocessing pipeline:
 
 Feel free to submit issues and enhancement requests!
 
-## License
-
-[MIT License](LICENSE)
+## Streamlit
+https://spam-classifier-nrujy9cdmkhozjq8clgvhp.streamlit.app
